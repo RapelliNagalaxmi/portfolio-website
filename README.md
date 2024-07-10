@@ -1,2 +1,2 @@
 # portfolio-website
- portfolio website using html, css and javascript
+ portfolio website using html,css,javascript
